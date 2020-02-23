@@ -1,0 +1,37 @@
+Step 1
+
+filter out the females that are fertile
+
+#do this as findFertileFemales()
+
+Step 2
+
+initialize arrays and 'timeTaken'
+
+fertileFemlae
+oldFemale
+children
+
+Step 3
+
+Append into children = no. of fertile female * Birth factor
+
+#do this as a function breed()
+
+Step 4
+
+increase timeTaken by 'Time to Breed'
+
+increase the age of children by 'time to breed'
+increase the age of females by 'time to breed'
+increase the age of males by 'time to breed'
+
+Step 5
+
+check if any female has reached life expectancy, if yes remove it from females array
+check if any child has reached maturity age, if yes shift it to females array
+
+Step 6
+
+if((males+females+children)>=threshold value):
+	then display 

@@ -1,0 +1,4 @@
+Asiatic Lion	:	Note: 10<=Age<=20
+Bengal Tiger	:	Note: 5<=Age<=15
+Black Buck	:	Note: 4<=Age<=13
+Red Panda	:	Note: 5<=Age<=15
